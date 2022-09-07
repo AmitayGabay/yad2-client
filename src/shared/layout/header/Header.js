@@ -1,6 +1,5 @@
 import React from 'react'
 import style from "./header.module.css"
-console.log(style)
 
 const Header = () => {
     return (
