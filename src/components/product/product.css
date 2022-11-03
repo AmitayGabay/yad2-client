@@ -1,0 +1,26 @@
+.product-productImage {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.product-buyNowBtn.MuiButtonBase-root {
+    background: rgb(54, 142, 54);
+    font-size: 18px;
+    transition: 400ms;
+}
+
+.product-buyNowBtn.MuiButtonBase-root:hover {
+    background: rgb(44, 169, 44);
+}
+
+.product-cartBtn.MuiButtonBase-root {
+    background: rgb(217, 217, 70);
+    padding-left: 30px;
+    padding-right: 30px;
+    transition: 400ms;
+}
+
+.product-cartBtn.MuiButtonBase-root:hover {
+    background: rgb(234, 234, 76);
+}
